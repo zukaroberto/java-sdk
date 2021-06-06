@@ -1,7 +1,0 @@
-build
-out
-.gradle
-*.log
-.idea
-*.iml
-bin/
